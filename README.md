@@ -1,4 +1,2 @@
 "# NicolasLavaury" 
-"# NicolasLavaury" 
-"# NicolasLavaury" 
-"# NicolasLavaury" 
+"# NicolasLavauryecho "# NicolasLavaury" >> README.md
